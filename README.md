@@ -1,1 +1,1 @@
-# FinanceTrackerApk
+# FinanceTrackerApplication

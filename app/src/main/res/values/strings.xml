@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PracticeLogInApp</string>
+    <string name="log_in_snack_bar_msg" id="loggedInMsg">Logged in!</string>
+</resources>
